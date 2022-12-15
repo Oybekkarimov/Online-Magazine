@@ -1,0 +1,96 @@
+@import "https://fonts.cdnfonts.com/css/tt-norms-pro";
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: TT Norms Pro, sans-serif;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+nav {
+  width: 100%;
+  height: 90px;
+  box-shadow: 0 0 15px #0000001f;
+}
+
+nav .navbar {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+nav .navbar .logo {
+  width: 111px;
+  height: 31px;
+  display: flex;
+}
+
+nav .navbar .leftMenu ul {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+nav .navbar .leftMenu ul li a {
+  color: #333;
+  margin-right: 45px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+nav .navbar .rightMenu {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+nav .navbar .rightMenu a img {
+  width: 18px;
+  height: 18px;
+}
+
+nav .navbar .rightMenu span {
+  margin-left: 10px;
+}
+
+nav .navbar .rightMenu .peopleIcon, nav .navbar .rightMenu .KorzinaIcon {
+  width: 21px;
+  height: 21px;
+  margin-left: 30px;
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
+
+section .container .banner {
+  width: 100%;
+  height: 100px;
+  background-image: url("banner.9705f5ed.png");
+}
+
+/*# sourceMappingURL=index.c92073ef.css.map */
