@@ -532,7 +532,26 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"8lRBv":[function(require,module,exports) {
+var _styleScss = require("../css/style.scss");
+const form = document.querySelector("#signUpForm");
+console.log(form);
+form.addEventListener("submit", (e)=>{
+    e.preventDefault();
+    const formData = new FormData(form);
+    console.log(formData);
+    console.log([
+        ...formData
+    ]);
+    fetch(`https://shopzone.onrender.com/auth/sign-up`, {
+        method: "POST",
+        body: formData
+    }).then((data)=>{
+        console.log(data);
+    }).catch((err)=>{
+        console.log(err);
+    });
+}); // fetch("https://shopzone.onrender.com/auth/sign-up");
 
-},{}]},["7ZoMj","8lRBv"], "8lRBv", "parcelRequire338f")
+},{"../css/style.scss":"1IiJn"}],"1IiJn":[function() {},{}]},["7ZoMj","8lRBv"], "8lRBv", "parcelRequire338f")
 
 //# sourceMappingURL=index.59a40e7a.js.map

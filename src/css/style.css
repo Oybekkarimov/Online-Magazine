@@ -153,4 +153,89 @@ section .allCategories {
 }
 section .allCategories h2 {
   margin-top: 50px;
+}
+section .allCategories .cards {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 22px;
+}
+section .allCategories .cards .card {
+  width: 200px;
+  height: 320px;
+  margin-top: 100px;
+  margin-right: 60px;
+}
+section .allCategories .cards .card:last-child {
+  margin-right: 0;
+}
+section .allCategories .cards .card .cardImg {
+  width: 100%;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(180deg, #ffffff 0%, #e5e5e5 0.01%, #e6e6e6 100%);
+  border-radius: 4px;
+}
+section .allCategories .cards .card .cardImg img {
+  width: 74px;
+  height: 56px;
+}
+section .allCategories .cards .card .cardText {
+  width: 100%;
+  height: auto;
+}
+section .allCategories .cards .card .cardText h3 {
+  margin-top: 10px;
+  margin-bottom: 6px;
+  font-size: 17px;
+  font-weight: bold;
+  line-height: 22px;
+  letter-spacing: 0em;
+}
+section .allCategories .cards .card .cardText p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+}
+section .allCategories .cards .card .cardText .priceH2 {
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 23px;
+  letter-spacing: 0em;
+  margin-top: 10px;
+}
+section .allCategories .cards .card .cardText .priceH2 span {
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  margin-left: 18px;
+  color: #828282;
+}
+section .allCategories .cards .card .cardText button {
+  width: 140px;
+  height: 38px;
+  border-radius: 4px;
+  background: #00ac4e;
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 14px;
+  margin-top: 24px;
+  cursor: pointer;
+}
+section .allCategories .cards .card .cardText .cardStar {
+  margin-top: 12px;
+}
+section .allCategories .cards .card .cardText .cardStar img {
+  width: 16px;
+  height: 16px;
 }/*# sourceMappingURL=style.css.map */
