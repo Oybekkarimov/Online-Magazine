@@ -4,17 +4,30 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
     <title>Document</title>
   </head>
   <body>
-    <form class="signIn">
-      <label for="email">Email:</label>
-      <input type="email" name="email" placeholder="Email" class="email" />
-      <label for="password">Password:</label>
-      <input type="password" name="password" placeholder="Password" />
-      <button type="submit">Submit</button>
-    </form>
-
+    <div class="upSect">
+      <div class="container">
+        <div class="sign-up">
+          <img src="../img/plus.png" alt="Plus" class="plusImg" />
+          <img src="../img/people.png" alt="people" class="peopleImg" />
+          <h2>Войти в личный кабинет</h2>
+          <form class="signIn">
+            <input
+              type="email"
+              name="email"
+              placeholder="Email"
+              class="email"
+            />
+            <input type="password" name="password" placeholder="Password" />
+            <button type="submit">Войти</button>
+            <a href="../html/signUp.html">Зарегистрироваться</a>
+          </form>
+        </div>
+      </div>
+    </div>
     <script src="../js/app.js" type="module"></script>
   </body>
 </html>

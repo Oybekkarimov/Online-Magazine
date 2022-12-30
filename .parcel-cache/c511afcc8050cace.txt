@@ -1,4 +1,4 @@
-5262
+5268
 36D:\Code\Online-Magazine\package.json133168796019288676 0
 88D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133160257311620000 0
 41D:\Code\Online-Magazine\package-lock.json133164552346169924 0
@@ -16,7 +16,7 @@
 53D:\Code\Online-Magazine\node_modules\mime-db\index.js133168795094990000 0
 82D:\Code\Online-Magazine\node_modules\@parcel\transformer-postcss\lib\loadConfig.js133160257037500000 0
 86D:\Code\Online-Magazine\node_modules\@parcel\optimizer-terser\node_modules\.bin\terser133168795458133107 0
-28D:\Code\Online-Magazine\dist133168871616990944 1
+28D:\Code\Online-Magazine\dist133168927433023369 1
 55D:\Code\Online-Magazine\node_modules\source-map-support133161862644276372 1
 56D:\Code\Online-Magazine\node_modules\terser\lib\compress133168795448300661 1
 27D:\Code\Online-Magazine\src133168793144293562 1
@@ -25,8 +25,6 @@
 78D:\Code\Online-Magazine\node_modules\node-gyp-build-optional-packages\index.js133160258126160000 0
 82D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\mutation-events.js133161862032770000 0
 36D:\Code\Online-Magazine\node_modules133168795483889439 1
-41D:\Code\Online-Magazine\node_modules\boom133168795414872301 1
-96D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133161862032770000 0
 41D:\Code\Online-Magazine\node_modules\@swc133156856693016083 1
 77D:\Code\Online-Magazine\node_modules\update-browserslist-db\node_modules\.bin133168795464019085 1
 63D:\Code\Online-Magazine\node_modules\sass\types\value\list.d.ts133168795192080000 0
@@ -41,7 +39,7 @@
 61D:\Code\Online-Magazine\node_modules\source-map\lib\base64.js133160264310700000 0
 71D:\Code\Online-Magazine\node_modules\request\node_modules\.bin\uuid.cmd133168795463234271 0
 33D:\Code\Online-Magazine\yarn.lock133168795484049422 0
-44D:\Code\Online-Magazine\src\html\signIn.html133168865307249186 0
+44D:\Code\Online-Magazine\src\html\signIn.html133168927152640532 0
 68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\PM.js133161862032770000 0
 80D:\Code\Online-Magazine\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133160256983920000 0
 66D:\Code\Online-Magazine\node_modules\posthtml-parser\dist\index.js133160257292260000 0
@@ -56,7 +54,7 @@
 69D:\Code\Online-Magazine\node_modules\@parcel\transformer-html\LICENSE133160257030490000 0
 41D:\Code\Online-Magazine\node_modules\yaml133161862634313932 1
 88D:\Code\Online-Magazine\node_modules\@parcel\transformer-react-refresh-wrap\package.json133160257050810000 0
-31D:\Code\Online-Magazine\src\img133156858175695027 1
+31D:\Code\Online-Magazine\src\img133168897615919053 1
 88D:\Code\Online-Magazine\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133160257710080000 0
 70D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\mp3.js133161862032770000 0
 72D:\Code\Online-Magazine\node_modules\@parcel\runtime-js\lib\helpers\node133161862784221695 1
@@ -65,6 +63,7 @@
 71D:\Code\Online-Magazine\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133160257661070000 0
 55D:\Code\Online-Magazine\node_modules\dotenv\lib\main.js133160257103530000 0
 31D:\Code\Online-Magazine\src\css133156858172874990 1
+40D:\Code\Online-Magazine\src\img\icon.png133168897481141348 0
 50D:\Code\Online-Magazine\node_modules\dotenv-expand133161862587183693 1
 80D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\sharedworkers.js133161862032770000 0
 58D:\Code\Online-Magazine\node_modules\@parcel\codeframe\src133161862645192188 1
@@ -72,7 +71,6 @@
 49D:\Code\Online-Magazine\node_modules\core-util-is133168795415012271 1
 68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\AO.js133161862032770000 0
 32D:\Code\Online-Magazine\src\html133168864741933030 1
-97D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\browserslist.cmd133168795458726977 0
 64D:\Code\Online-Magazine\node_modules\to-regex-range\package.json133168795195440000 0
 74D:\Code\Online-Magazine\node_modules\csso\lib\restructure\1-mergeAtrule.js133160257901910000 0
 56D:\Code\Online-Magazine\node_modules\react-error-overlay133161862626609036 1
@@ -82,7 +80,7 @@
 33D:\Code\Online-Magazine\src\utils133160240766299196 1
 91D:\Code\Online-Magazine\node_modules\react-refresh\cjs\react-refresh-runtime.development.js133160257290880000 0
 111D:\Code\Online-Magazine\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-arm64.node133160257071060000 0
-42D:\Code\Online-Magazine\src\css\style.scss133164622489091859 0
+42D:\Code\Online-Magazine\src\css\style.scss133168926225966554 0
 57D:\Code\Online-Magazine\node_modules\yaml\types\binary.js133160264265510000 0
 54D:\Code\Online-Magazine\node_modules\indexof\Readme.md133168795115520000 0
 63D:\Code\Online-Magazine\node_modules\axios\lib\platform\browser133168795448450691 1
@@ -91,7 +89,7 @@
 42D:\Code\Online-Magazine\src\utils\axios.js133166974545073094 0
 67D:\Code\Online-Magazine\node_modules\lightningcss\node_modules\.bin133168795461931317 1
 53D:\Code\Online-Magazine\node_modules\follow-redirects133168795415378564 1
-37D:\Code\Online-Magazine\src\js\app.js133168878183390207 0
+37D:\Code\Online-Magazine\src\js\app.js133168923885848206 0
 51D:\Code\Online-Magazine\node_modules\csso\README.md133160257901910000 0
 62D:\Code\Online-Magazine\node_modules\domutils\lib\traversal.js133160264272090000 0
 68D:\Code\Online-Magazine\node_modules\css-tree\lib\tokenizer\index.js133160257843630000 0
@@ -142,27 +140,31 @@
 89D:\Code\Online-Magazine\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133160258078760000 0
 56D:\Code\Online-Magazine\node_modules\type-fest\readme.md133160258019210000 0
 51D:\Code\Online-Magazine\src\img\leftMenuKorzina.png133154172417990546 0
-56D:\Code\Online-Magazine\node_modules\escalade\index.d.ts133160264079170000 0
-60D:\Code\Online-Magazine\node_modules\object-keys\.travis.yml133168795113300000 0
-66D:\Code\Online-Magazine\node_modules\type-fest\source\mutable.d.ts133160258019210000 0
-71D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\heif.js133161862032770000 0
-42D:\Code\Online-Magazine\node_modules\acorn133168795411568959 1
-46D:\Code\Online-Magazine\node_modules\base64-js133168795414174414 1
-44D:\Code\Online-Magazine\node_modules\is-glob133168795415889167 1
-66D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\src133161862671542488 1
-54D:\Code\Online-Magazine\src\img\MaskleftMenuPeople.png133154153731889902 0
-59D:\Code\Online-Magazine\node_modules\@parcel\compressor-raw133161862551504617 1
-74D:\Code\Online-Magazine\node_modules\lightningcss-win32-x64-msvc\README.md133160257658500000 0
-79D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\css-autofill.js133161862032770000 0
-80D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\css-scrollbar.js133161862032770000 0
-56D:\Code\Online-Magazine\node_modules\term-size\readme.md133160257139970000 0
 51D:\Code\Online-Magazine\src\img\non select star.png133155892515246727 0
+67D:\Code\Online-Magazine\node_modules\htmlparser2\lib\Tokenizer.d.ts133160258029050000 0
+57D:\Code\Online-Magazine\node_modules\minimist\test\num.js133168795097460000 0
+58D:\Code\Online-Magazine\node_modules\base-x\src\index.d.ts133160257081030000 0
+59D:\Code\Online-Magazine\node_modules\picomatch\CHANGELOG.md133168795194220000 0
+88D:\Code\Online-Magazine\node_modules\@babel\helper-validator-identifier\lib\index.js.map133160264352200000 0
+84D:\Code\Online-Magazine\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts133160264341530000 0
+51D:\Code\Online-Magazine\node_modules\yaml\schema.js133160264265510000 0
+68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\UA.js133161862032770000 0
+70D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\es6.js133161862032770000 0
+57D:\Code\Online-Magazine\node_modules\electron-to-chromium133161862617439101 1
+42D:\Code\Online-Magazine\src\img\people.png133154153731889902 0
+68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\IE.js133161862032770000 0
 59D:\Code\Online-Magazine\node_modules\@parcel\diagnostic\src133161862646096210 1
 89D:\Code\Online-Magazine\node_modules\@parcel\transformer-svg\node_modules\.bin\semver.cmd133168795460141496 0
 52D:\Code\Online-Magazine\node_modules\sntp\.npmignore133168795111070000 0
 66D:\Code\Online-Magazine\node_modules\terser\lib\compress\inline.js133160257261510000 0
 80D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\ambient-light.js133161862032770000 0
 41D:\Code\Online-Magazine\src\img\phone.png133154153807066218 0
+86D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\invalid-source-missing133161862784087572 1
+48D:\Code\Online-Magazine\node_modules\timsort\src133161862734170761 1
+53D:\Code\Online-Magazine\node_modules\parcel\README.md133160256918190000 0
+68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\NC.js133161862032770000 0
+52D:\Code\Online-Magazine\node_modules\yaml\index.d.ts133160264265510000 0
+40D:\Code\Online-Magazine\src\img\plus.png133168896562838090 0
 62D:\Code\Online-Magazine\node_modules\@parcel\core\src\utils.js133160256918660000 0
 84D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\plugins\node_modules133156855850061638 1
 63D:\Code\Online-Magazine\node_modules\wordwrap\example\center.js133168795098110000 0
@@ -201,16 +203,16 @@
 60D:\Code\Online-Magazine\node_modules\to-regex-range\index.js133168795195440000 0
 59D:\Code\Online-Magazine\node_modules\proxy-from-env\test.js133168795089450000 0
 57D:\Code\Online-Magazine\node_modules\caniuse-lite\LICENSE133161862032770000 0
-43D:\Code\Online-Magazine\src\html\index.html133168871613114026 0
-44D:\Code\Online-Magazine\src\html\signUp.html133168863997391987 0
+43D:\Code\Online-Magazine\src\html\index.html133168920851137365 0
+44D:\Code\Online-Magazine\src\html\signUp.html133168920338559588 0
 73D:\Code\Online-Magazine\node_modules\css-tree\lib\syntax\config\parser.js133160257843630000 0
 97D:\Code\Online-Magazine\node_modules\lmdb\node_modules\.bin\node-gyp-build-optional-packages-test133168795462375848 0
 92D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133160257311620000 0
 63D:\Code\Online-Magazine\node_modules\request\tests\ssl\test.key133168795096590000 0
 61D:\Code\Online-Magazine\node_modules\entities\lib\encode.d.ts133160264321190000 0
-41D:\Code\Online-Magazine\src\css\style.css133168875423914089 0
+41D:\Code\Online-Magazine\src\css\style.css133168926227610201 0
 74D:\Code\Online-Magazine\node_modules\csso\lib\restructure\prepare\index.js133160257901910000 0
-45D:\Code\Online-Magazine\src\css\style.css.map133168875423914089 0
+45D:\Code\Online-Magazine\src\css\style.css.map133168926227610201 0
 94D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133160257311620000 0
 54D:\Code\Online-Magazine\node_modules\term-size\license133160257139970000 0
 65D:\Code\Online-Magazine\node_modules\entities\lib\encode.d.ts.map133160264321190000 0
@@ -274,6 +276,10 @@
 50D:\Code\Online-Magazine\node_modules\lmdb\index.js133160257311620000 0
 75D:\Code\Online-Magazine\node_modules\combined-stream\lib\combined_stream.js133168795089550000 0
 54D:\Code\Online-Magazine\node_modules\type-fest\license133160258019210000 0
+66D:\Code\Online-Magazine\node_modules\type-fest\source\mutable.d.ts133160258019210000 0
+71D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\heif.js133161862032770000 0
+42D:\Code\Online-Magazine\node_modules\acorn133168795411568959 1
+46D:\Code\Online-Magazine\node_modules\base64-js133168795414174414 1
 58D:\Code\Online-Magazine\node_modules\posthtml\lib\index.js133160257253100000 0
 87D:\Code\Online-Magazine\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133160256945920000 0
 52D:\Code\Online-Magazine\node_modules\css-what\lib\es133161862761989337 1
@@ -290,6 +296,8 @@
 58D:\Code\Online-Magazine\node_modules\chalk\source\index.js133160256946660000 0
 71D:\Code\Online-Magazine\node_modules\caniuse-lite\dist\lib\supported.js133161862032770000 0
 85D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\element-from-point.js133161862032770000 0
+41D:\Code\Online-Magazine\node_modules\boom133168795414872301 1
+96D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133161862032770000 0
 49D:\Code\Online-Magazine\node_modules\browserslist133168795461223704 1
 58D:\Code\Online-Magazine\node_modules\@lezer\common\LICENSE133160257306170000 0
 64D:\Code\Online-Magazine\node_modules\svgo\plugins\removeTitle.js133160257253500000 0
@@ -400,17 +408,6 @@
 79D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\inline-block.js133161862032770000 0
 52D:\Code\Online-Magazine\node_modules\asn1\.npmignore133168795111110000 0
 66D:\Code\Online-Magazine\node_modules\http-signature\.dir-locals.el133168795101240000 0
-67D:\Code\Online-Magazine\node_modules\htmlparser2\lib\Tokenizer.d.ts133160258029050000 0
-57D:\Code\Online-Magazine\node_modules\minimist\test\num.js133168795097460000 0
-58D:\Code\Online-Magazine\node_modules\base-x\src\index.d.ts133160257081030000 0
-59D:\Code\Online-Magazine\node_modules\picomatch\CHANGELOG.md133168795194220000 0
-88D:\Code\Online-Magazine\node_modules\@babel\helper-validator-identifier\lib\index.js.map133160264352200000 0
-84D:\Code\Online-Magazine\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts133160264341530000 0
-51D:\Code\Online-Magazine\node_modules\yaml\schema.js133160264265510000 0
-68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\UA.js133161862032770000 0
-70D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\es6.js133161862032770000 0
-57D:\Code\Online-Magazine\node_modules\electron-to-chromium133161862617439101 1
-68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\IE.js133161862032770000 0
 128D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\b\index.js133160257284740000 0
 63D:\Code\Online-Magazine\node_modules\msgpackr\dist\index.js.map133160257122420000 0
 62D:\Code\Online-Magazine\node_modules\@parcel\utils\src\hash.js133160256945920000 0
@@ -519,6 +516,13 @@
 72D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\mpeg4.js133161862032770000 0
 47D:\Code\Online-Magazine\node_modules\is-extglob133168795415889167 1
 75D:\Code\Online-Magazine\node_modules\css-tree\lib\syntax\node\Identifier.js133160257843630000 0
+44D:\Code\Online-Magazine\node_modules\is-glob133168795415889167 1
+66D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\src133161862671542488 1
+59D:\Code\Online-Magazine\node_modules\@parcel\compressor-raw133161862551504617 1
+74D:\Code\Online-Magazine\node_modules\lightningcss-win32-x64-msvc\README.md133160257658500000 0
+79D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\css-autofill.js133161862032770000 0
+80D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\css-scrollbar.js133161862032770000 0
+56D:\Code\Online-Magazine\node_modules\term-size\readme.md133160257139970000 0
 54D:\Code\Online-Magazine\node_modules\sass\types\logger133168795442487322 1
 59D:\Code\Online-Magazine\node_modules\node-uuid\test\test.js133168795103860000 0
 44D:\Code\Online-Magazine\node_modules\is-json133161862604871399 1
@@ -742,9 +746,9 @@
 68D:\Code\Online-Magazine\node_modules\css-tree\lib\syntax\node\Url.js133160257843630000 0
 66D:\Code\Online-Magazine\node_modules\request\tests\test-timeout.js133168795096590000 0
 60D:\Code\Online-Magazine\node_modules\optimist\example\xup.js133168795095970000 0
+86D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\json5133168795458798638 0
 82D:\Code\Online-Magazine\node_modules\lmdb\node_modules\node-addon-api\package.json133160258078760000 0
 63D:\Code\Online-Magazine\node_modules\request\tests\ssl\test.crt133168795096590000 0
-86D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\json5133168795458798638 0
 46D:\Code\Online-Magazine\node_modules\sntp\test133168795429256774 1
 68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\BH.js133161862032770000 0
 41D:\Code\Online-Magazine\node_modules\svgo133168795421767654 1
@@ -857,11 +861,6 @@
 75D:\Code\Online-Magazine\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133160257661070000 0
 74D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\svg-css.js133161862032770000 0
 46D:\Code\Online-Magazine\node_modules\yaml\dist133161862738997443 1
-86D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\invalid-source-missing133161862784087572 1
-48D:\Code\Online-Magazine\node_modules\timsort\src133161862734170761 1
-53D:\Code\Online-Magazine\node_modules\parcel\README.md133160256918190000 0
-68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\NC.js133161862032770000 0
-52D:\Code\Online-Magazine\node_modules\yaml\index.d.ts133160264265510000 0
 70D:\Code\Online-Magazine\node_modules\dom-serializer\lib\esm\index.d.ts133160264340100000 0
 54D:\Code\Online-Magazine\node_modules\csso\lib\index.js133160257901910000 0
 67D:\Code\Online-Magazine\node_modules\type-fest\source\value-of.d.ts133160258019210000 0
@@ -1032,7 +1031,7 @@
 91D:\Code\Online-Magazine\node_modules\msgpackr\node_modules\.bin\download-msgpackr-prebuilds133168795462485812 0
 67D:\Code\Online-Magazine\node_modules\yaml\browser\dist\package.json133160264265510000 0
 62D:\Code\Online-Magazine\node_modules\sass\sass.default.dart.js133168795192080000 0
-47D:\Code\Online-Magazine\dist\index.c92073ef.css133168871105866056 0
+47D:\Code\Online-Magazine\dist\index.c92073ef.css133168927420753165 0
 67D:\Code\Online-Magazine\node_modules\yaml\browser\dist\parse-cst.js133160264265510000 0
 54D:\Code\Online-Magazine\node_modules\immutable\LICENSE133168795192140000 0
 83D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\multibackgrounds.js133161862032770000 0
@@ -1138,9 +1137,9 @@
 63D:\Code\Online-Magazine\node_modules\term-size\vendor\.DS_Store133160257139970000 0
 54D:\Code\Online-Magazine\node_modules\entities\lib\maps133161862761907937 1
 56D:\Code\Online-Magazine\node_modules\hawk\lib\browser.js133168795100990000 0
-57D:\Code\Online-Magazine\dist\non select star.23835e5b.png133168871105909222 0
-53D:\Code\Online-Magazine\node_modules\wordwrap\LICENSE133168795098110000 0
+57D:\Code\Online-Magazine\dist\non select star.23835e5b.png133168926808277183 0
 59D:\Code\Online-Magazine\node_modules\object-keys\.npmignore133168795113300000 0
+53D:\Code\Online-Magazine\node_modules\wordwrap\LICENSE133168795098110000 0
 64D:\Code\Online-Magazine\node_modules\dom-serializer\lib\index.js133160264340100000 0
 61D:\Code\Online-Magazine\node_modules\wordwrap\README.markdown133168795098110000 0
 85D:\Code\Online-Magazine\node_modules\@babel\highlight\node_modules\color-name\LICENSE133160264370110000 0
@@ -1178,15 +1177,15 @@
 46D:\Code\Online-Magazine\node_modules\svgo\dist133168795429286764 1
 75D:\Code\Online-Magazine\node_modules\term-size\vendor\windows\term-size.exe133160257139970000 0
 66D:\Code\Online-Magazine\node_modules\v8-compile-cache\CHANGELOG.md133160256960420000 0
+92D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133160257311620000 0
+74D:\Code\Online-Magazine\node_modules\terser\lib\compress\native-objects.js133160257261510000 0
+61D:\Code\Online-Magazine\node_modules\term-size\vendor\windows133161862779899189 1
 62D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lz4\lib133161862790897762 1
 71D:\Code\Online-Magazine\node_modules\@parcel\packager-html\package.json133160256994330000 0
 76D:\Code\Online-Magazine\node_modules\readable-stream\lib\_stream_writable.js133168795104500000 0
 96D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.c133160257311620000 0
-69D:\Code\Online-Magazine\node_modules\term-size\vendor\macos\term-size133160257139970000 0
 66D:\Code\Online-Magazine\node_modules\v8-compile-cache\package.json133160256960420000 0
-92D:\Code\Online-Magazine\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133160257311620000 0
-74D:\Code\Online-Magazine\node_modules\terser\lib\compress\native-objects.js133160257261510000 0
-61D:\Code\Online-Magazine\node_modules\term-size\vendor\windows133161862779899189 1
+69D:\Code\Online-Magazine\node_modules\term-size\vendor\macos\term-size133160257139970000 0
 73D:\Code\Online-Magazine\node_modules\v8-compile-cache\v8-compile-cache.js133160256960420000 0
 58D:\Code\Online-Magazine\node_modules\utility-types\LICENSE133160257320340000 0
 67D:\Code\Online-Magazine\node_modules\css-select\lib\attributes.d.ts133160257767510000 0
@@ -1223,7 +1222,7 @@
 75D:\Code\Online-Magazine\node_modules\utility-types\dist\mapped-types.js.map133160257320340000 0
 76D:\Code\Online-Magazine\node_modules\utility-types\dist\utility-types.js.map133160257320340000 0
 63D:\Code\Online-Magazine\node_modules\nth-check\lib\esm\parse.js133160264281700000 0
-52D:\Code\Online-Magazine\dist\bannerFood.4e5a2e0b.png133168871108306860 0
+52D:\Code\Online-Magazine\dist\bannerFood.4e5a2e0b.png133168926826184041 0
 56D:\Code\Online-Magazine\node_modules\terser\package.json133160257261510000 0
 60D:\Code\Online-Magazine\node_modules\optimist\test\_\argv.js133168795095970000 0
 72D:\Code\Online-Magazine\node_modules\axios\lib\platform\browser\index.js133168795089500000 0
@@ -1460,9 +1459,6 @@
 68D:\Code\Online-Magazine\node_modules\cosmiconfig\dist\types.d.ts.map133160257661070000 0
 69D:\Code\Online-Magazine\node_modules\svgo\plugins\convertTransform.js133160257253500000 0
 62D:\Code\Online-Magazine\node_modules\resolve-from\package.json133160264331150000 0
-67D:\Code\Online-Magazine\node_modules\css-what\lib\es\stringify.d.ts133160264270270000 0
-79D:\Code\Online-Magazine\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133160257843630000 0
-68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\KY.js133161862032770000 0
 63D:\Code\Online-Magazine\node_modules\source-map\source-map.d.ts133160264310700000 0
 65D:\Code\Online-Magazine\node_modules\svgo\plugins\inlineStyles.js133160257253500000 0
 75D:\Code\Online-Magazine\node_modules\@jridgewell\set-array\src\set-array.ts133160264341530000 0
@@ -2061,7 +2057,7 @@
 84D:\Code\Online-Magazine\node_modules\posthtml\node_modules\posthtml-parser\readme.md133160257710080000 0
 90D:\Code\Online-Magazine\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133160257037500000 0
 97D:\Code\Online-Magazine\node_modules\posthtml\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133160257710080000 0
-39D:\Code\Online-Magazine\dist\index.html133168871616907698 0
+39D:\Code\Online-Magazine\dist\index.html133168927419413077 0
 101D:\Code\Online-Magazine\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133160257710080000 0
 62D:\Code\Online-Magazine\node_modules\css-select\lib\compile.js133160257767510000 0
 67D:\Code\Online-Magazine\node_modules\@types\parse-json\package.json133160264205450000 0
@@ -2178,6 +2174,8 @@
 72D:\Code\Online-Magazine\node_modules\optimist\example\default_singles.js133168795095970000 0
 63D:\Code\Online-Magazine\node_modules\lmdb\util\RangeIterable.js133160257311620000 0
 72D:\Code\Online-Magazine\node_modules\optimist\example\line_count_wrap.js133168795095970000 0
+56D:\Code\Online-Magazine\node_modules\escalade\index.d.ts133160264079170000 0
+60D:\Code\Online-Magazine\node_modules\object-keys\.travis.yml133168795113300000 0
 68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\BD.js133161862032770000 0
 57D:\Code\Online-Magazine\node_modules\object-keys\index.js133168795113300000 0
 56D:\Code\Online-Magazine\node_modules\object-keys\shim.js133168795113300000 0
@@ -3143,6 +3141,9 @@
 61D:\Code\Online-Magazine\node_modules\css-what\lib\es\index.js133160264270270000 0
 67D:\Code\Online-Magazine\node_modules\@parcel\watcher\src\DirTree.hh133160257135630000 0
 64D:\Code\Online-Magazine\node_modules\caniuse-lite\data\agents.js133161862032770000 0
+67D:\Code\Online-Magazine\node_modules\css-what\lib\es\stringify.d.ts133160264270270000 0
+79D:\Code\Online-Magazine\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133160257843630000 0
+68D:\Code\Online-Magazine\node_modules\caniuse-lite\data\regions\KY.js133161862032770000 0
 71D:\Code\Online-Magazine\node_modules\css-what\lib\es\stringify.d.ts.map133160264270270000 0
 63D:\Code\Online-Magazine\node_modules\css-what\lib\es\types.d.ts133160264270270000 0
 67D:\Code\Online-Magazine\node_modules\css-what\lib\es\types.d.ts.map133160264270270000 0
@@ -4077,7 +4078,7 @@
 94D:\Code\Online-Magazine\node_modules\@parcel\watcher\prebuilds\darwin-x64\node.napi.glibc.node133160257135630000 0
 86D:\Code\Online-Magazine\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133160257071060000 0
 73D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\webhid.js133161862032770000 0
-46D:\Code\Online-Magazine\dist\star.f0695dfc.png133168871108150038 0
+46D:\Code\Online-Magazine\dist\star.f0695dfc.png133168926826140966 0
 71D:\Code\Online-Magazine\node_modules\@parcel\codeframe\src\codeframe.js133160257146050000 0
 83D:\Code\Online-Magazine\node_modules\caniuse-lite\data\features\webkit-user-drag.js133161862032770000 0
 92D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133160256918660000 0
@@ -4199,7 +4200,7 @@
 65D:\Code\Online-Magazine\node_modules\axios\dist\browser\axios.cjs133168795089500000 0
 69D:\Code\Online-Magazine\node_modules\axios\dist\browser\axios.cjs.map133168795089500000 0
 60D:\Code\Online-Magazine\node_modules\axios\bin\ssl_hotfix.js133168795089500000 0
-57D:\Code\Online-Magazine\dist\leftMenuKorzina.2eca58c5.png133168871105899103 0
+57D:\Code\Online-Magazine\dist\leftMenuKorzina.2eca58c5.png133168926808277183 0
 80D:\Code\Online-Magazine\node_modules\@parcel\workers\src\threads\ThreadsChild.js133160257075700000 0
 113D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json133160257284740000 0
 54D:\Code\Online-Magazine\node_modules\asynckit\bench.js133168795089530000 0
@@ -4317,7 +4318,7 @@
 82D:\Code\Online-Magazine\node_modules\@swc\helpers\lib\_class_private_method_get.js133160257299020000 0
 82D:\Code\Online-Magazine\node_modules\@swc\helpers\lib\_class_private_method_set.js133160257299020000 0
 96D:\Code\Online-Magazine\node_modules\@swc\helpers\lib\_class_static_private_field_destructure.js133160257299020000 0
-51D:\Code\Online-Magazine\dist\index.c92073ef.css.map133168871106395315 0
+51D:\Code\Online-Magazine\dist\index.c92073ef.css.map133168927420783174 0
 93D:\Code\Online-Magazine\node_modules\@swc\helpers\lib\_class_static_private_field_spec_get.js133160257299020000 0
 73D:\Code\Online-Magazine\node_modules\@parcel\core\src\summarizeRequest.js133160256918660000 0
 91D:\Code\Online-Magazine\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133160257299020000 0
@@ -4564,6 +4565,7 @@
 79D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\src\constants.js133160257020680000 0
 74D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\src\flow.js133160257020680000 0
 75D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\src\utils.js133160257020680000 0
+97D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\browserslist.cmd133168795458726977 0
 83D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\parcel\package.json133160256918660000 0
 90D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\json5.cmd133168795458798638 0
 87D:\Code\Online-Magazine\node_modules\@parcel\transformer-babel\node_modules\.bin\semver133168795458868577 0
@@ -4795,7 +4797,7 @@
 90D:\Code\Online-Magazine\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133160256918660000 0
 98D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias133161862792189263 1
 103D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133161862792189263 1
-50D:\Code\Online-Magazine\dist\index.59a40e7a.js.map133168871616975564 0
+50D:\Code\Online-Magazine\dist\index.59a40e7a.js.map133168927433023369 0
 116D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133160257284740000 0
 107D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133161862796724376 1
 115D:\Code\Online-Magazine\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133160257284740000 0
@@ -5252,12 +5254,16 @@
 46D:\Code\Online-Magazine\node_modules\.bin\yarn133168795466414264 0
 53D:\Code\Online-Magazine\node_modules\.bin\yarnpkg.cmd133168795466464237 0
 60D:\Code\Online-Magazine\dist\bannerFood.4e5a2e0b.png.9376.bv133164614325281578 0
-49D:\Code\Online-Magazine\dist\cardImg.2f4c0a81.png133168871105899103 0
+49D:\Code\Online-Magazine\dist\cardImg.2f4c0a81.png133168926808277183 0
 49D:\Code\Online-Magazine\dist\html.dad4b666.js.map133168871110213311 0
-49D:\Code\Online-Magazine\dist\image 2.28c4f1da.png133168871105899103 0
-46D:\Code\Online-Magazine\dist\index.59a40e7a.js133168871616827805 0
+49D:\Code\Online-Magazine\dist\image 2.28c4f1da.png133168926824153536 0
+46D:\Code\Online-Magazine\dist\index.59a40e7a.js133168927432993362 0
 54D:\Code\Online-Magazine\dist\index.59a40e7a.js.9376.bw133164614325281578 0
-46D:\Code\Online-Magazine\dist\logo.726d37a8.png133168871108150038 0
-47D:\Code\Online-Magazine\dist\phone.e2ac06e9.png133168871105866056 0
-40D:\Code\Online-Magazine\dist\signIn.html133168871107095127 0
-40D:\Code\Online-Magazine\dist\signUp.html133168871109299287 0
+60D:\Code\Online-Magazine\dist\index.c92073ef.css.map.10996.dj133168926826362889 0
+46D:\Code\Online-Magazine\dist\logo.726d37a8.png133168926808277183 0
+48D:\Code\Online-Magazine\dist\People.49a83f2d.png133168920827307918 0
+48D:\Code\Online-Magazine\dist\people.690da0da.png133168927419413077 0
+47D:\Code\Online-Magazine\dist\phone.e2ac06e9.png133168926826140966 0
+46D:\Code\Online-Magazine\dist\plus.21c0cfed.png133168927432903362 0
+40D:\Code\Online-Magazine\dist\signIn.html133168927432973367 0
+40D:\Code\Online-Magazine\dist\signUp.html133168927419413077 0

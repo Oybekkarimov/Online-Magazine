@@ -27,9 +27,12 @@ document.addEventListener("DOMContentLoaded", (e) => {
 
       signUp(formData).then((data) => {
         console.log(data);
+        if (data.status == 200) {
+          alert("Xech bolmasa shuni eplading!")
+        }
       })
         .catch((err) => {
-          console.log(err);
+          alert(err.response.data.msg);
         });
     });
   }
@@ -48,10 +51,11 @@ document.addEventListener("DOMContentLoaded", (e) => {
 
 
       signIn(formData).then((data) => {
-        console.log(data);
+        alert("Akkauntga kirdingiz!")
+
       })
         .catch((err) => {
-          console.log(err);
+          alert(err.response.data.msg);
         });
     });
   }

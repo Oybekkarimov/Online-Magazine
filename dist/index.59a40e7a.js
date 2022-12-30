@@ -548,8 +548,9 @@ document.addEventListener("DOMContentLoaded", (e)=>{
             console.log(formData);
             (0, _api.signUp)(formData).then((data)=>{
                 console.log(data);
+                if (data.status == 200) alert("Xech bolmasa shuni eplading!");
             }).catch((err)=>{
-                console.log(err);
+                alert(err.response.data.msg);
             });
         });
     }
@@ -561,9 +562,9 @@ document.addEventListener("DOMContentLoaded", (e)=>{
             const formData = new (0, _signIn.SignIn)(form1.email.value, form1.password.value);
             console.log(formData);
             (0, _api.signIn)(formData).then((data)=>{
-                console.log(data);
+                alert("Akkauntga kirdingiz!");
             }).catch((err)=>{
-                console.log(err);
+                alert(err.response.data.msg);
             });
         });
     }
@@ -4712,4 +4713,4 @@ function SignIn(email, password) {
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["7ZoMj","8lRBv"], "8lRBv", "parcelRequire338f")
 
-//# sourceMappingURL=signIn.59a40e7a.js.map
+//# sourceMappingURL=index.59a40e7a.js.map
