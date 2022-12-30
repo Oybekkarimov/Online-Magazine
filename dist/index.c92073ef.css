@@ -87,6 +87,18 @@ section {
   height: 100%;
 }
 
+section .sign_up {
+  width: 100%;
+  height: 100vh;
+  opacity: .35;
+  text-align: center;
+  background: #000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
 section .container {
   flex-direction: column;
   align-items: center;
